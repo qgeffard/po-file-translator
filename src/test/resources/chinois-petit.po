@@ -1,0 +1,11 @@
+#: STRINGS.ACTIONS.ABANDON
+msgid "Abandon"
+msgstr "遗弃"
+
+#: STRINGS.ACTIONS.ACTIVATE.ACCOMPLISH
+msgid "Wind"
+msgstr "上发条"
+
+#: STRINGS.ACTIONS.ACTIVATE.CLIMB
+msgid "Climb"
+msgstr "攀爬"
